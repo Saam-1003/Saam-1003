@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Sampanna Umredkar 👋
 
-<!--
-**Saam-1003/Saam-1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### HR & People Analytics | Data Analysis | Applied Machine Learning
 
-Here are some ideas to get you started:
+I have experience in HR and recruitment, and I'm building practical analytics projects that connect people-related data with meaningful insights. I'm interested in using data analysis, reporting, and machine learning to explore business and workforce questions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+
+- **Data Analysis:** Microsoft Excel, PivotTables, lookups, dashboards, and data cleaning
+- **Programming & Analytics:** Python, pandas, NumPy
+- **Machine Learning:** scikit-learn, model evaluation, and probability calibration
+- **App Development:** Streamlit
+- **Project Tools:** GitHub
+
+## 🚀 Featured Project
+
+### Job-Change Intention Insights
+
+An interactive machine learning application that estimates job-change intention from candidate profile information.
+
+- Built with Python, pandas, scikit-learn, and Streamlit
+- Uses a nine-feature calibrated logistic regression model
+- Includes an interactive profile form and prediction results
+- Deployed using Streamlit Community Cloud
+
+**[Try the live application](https://appstreamlit-app-step177-prof-xmkt9z.streamlit.app/)**
+
+*Note: The model estimates job-change intention as represented in the source dataset. It does not measure verified employee attrition, and the recorded evaluation results are exploratory.*
+
+## 🎯 Areas of Interest
+
+- People Analytics and HR Analytics
+- Talent Acquisition and workforce insights
+- Data analysis, dashboards, and reporting
+- Practical machine learning applications
+
+## 🌱 Currently Learning
+
+Continuously developing my skills in Python, data analytics, machine learning, and building interactive applications.
+
+---
+
+Thanks for visiting my profile! 😊
