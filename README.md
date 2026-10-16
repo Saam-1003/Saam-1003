@@ -18,14 +18,14 @@ I have experience in HR and recruitment, and I'm building practical analytics pr
 
 An interactive machine learning application that estimates job-change intention from candidate profile information.
 
-- Built with Python, pandas, scikit-learn, and Streamlit
+- Built with Python, pandas, NumPy, and scikit-learn
 - Uses a nine-feature calibrated logistic regression model
 - Includes an interactive profile form and prediction results
 - Deployed using Streamlit Community Cloud
 
-**[Try the live application](https://appstreamlit-app-step177-prof-xmkt9z.streamlit.app/)**
+🔗 **[Try the live application](https://job-change-intention-insights.streamlit.app/)**
 
-*Note: The model estimates job-change intention as represented in the source dataset. It does not measure verified employee attrition, and the recorded evaluation results are exploratory.*
+*Note: The model estimates job-change intention represented in the source dataset, not verified employee attrition. Its evaluation results are exploratory.*
 
 ## 🎯 Areas of Interest
 
